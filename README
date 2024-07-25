@@ -1,9 +1,0 @@
-command to run
-<br>
-docker run -v D:/Test/Docker/p2/servers.txt:/myapp/servers.txt --rm dd677321d7e3
-<br>
-This is a git test file also
-<br>
-Welcome to my website (Dropdown)
-Wellcome to my website (Button)
-
